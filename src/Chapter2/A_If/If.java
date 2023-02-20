@@ -17,7 +17,7 @@ public class If {
         //? {} 를 제거하고 사용 가능
         if (age > 19) System.out.println("성인입니다.");
 
-        //# if else 문
+        //# if else 문 
         //? 조건이 true일 경우와 false일 경우 실행되는 코드를 각각 지정한 구문
         //? 사용 방법: if (조건) { 조건이 true일 때 실행 할 코드 } else { 조건이 false일 때 실행 할 코드 }
         if (age > 19) {
